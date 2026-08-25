@@ -45,4 +45,4 @@
 - 作者：Somme XIA
 - 邮箱：ci210021@qq.com
 - GitHub：https://github.com/xia114514zz/-TCG-board-game-Brawl-TCG/
-Copyright © 2025 Somme XIA | Licensed under CC BY-NC-SA 4.0
+Copyright © 2025 Somme XIA | Licensed under CC BY-NC-SA 4.0 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
